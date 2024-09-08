@@ -17,10 +17,10 @@ Essa aplicação web permite que o usuário descubra qual era a música mais toc
 * **GitHub:** Plataforma para versionamento do código e colaboração.
 
 ## Estrutura do Projeto
-index.html: Arquivo principal da aplicação, contendo a estrutura HTML.
-style.css: Arquivo CSS com as regras de estilo.
-app.js: Arquivo JavaScript com a lógica da aplicação.
-dados.js: Arquivo JavaScript contendo os dados das músicas (opcional, se os dados forem armazenados em um arquivo separado).
+* index.html: Arquivo principal da aplicação, contendo a estrutura HTML.
+* style.css: Arquivo CSS com as regras de estilo.
+* app.js: Arquivo JavaScript com a lógica da aplicação.
+* dados.js: Arquivo JavaScript contendo os dados das músicas (opcional, se os dados forem armazenados em um arquivo separado).
 
 ## Contribuições
 Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão, por favor, abra uma issue.
